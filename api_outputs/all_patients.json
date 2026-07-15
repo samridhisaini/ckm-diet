@@ -1,0 +1,42 @@
+[
+    {
+        "pid": "1-3-3",
+        "arm": "Low carbohydrate diet",
+        "age": 54,
+        "gender": "Male",
+        "uphc": "R.K. Nagar UPHC",
+        "diabetes_duration_yr": 4
+    },
+    {
+        "pid": "2-7-11",
+        "arm": "Low carbohydrate diet",
+        "age": 48,
+        "gender": "Male",
+        "uphc": "Thanthai Periyar UPHC",
+        "diabetes_duration_yr": 4
+    },
+    {
+        "pid": "3-10-13",
+        "arm": "Usual diet",
+        "age": 51,
+        "gender": "Female",
+        "uphc": "Maduravoyal UPHC",
+        "diabetes_duration_yr": 1
+    },
+    {
+        "pid": "4-14-17",
+        "arm": "Usual diet",
+        "age": 65,
+        "gender": "Female",
+        "uphc": "SRKV UPHC",
+        "diabetes_duration_yr": 10
+    },
+    {
+        "pid": "4-16-11",
+        "arm": "Usual diet",
+        "age": 56,
+        "gender": "Female",
+        "uphc": "Voluntary Health Services UPHC",
+        "diabetes_duration_yr": 5
+    }
+]

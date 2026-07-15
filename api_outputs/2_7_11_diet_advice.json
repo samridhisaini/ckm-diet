@@ -1,0 +1,33 @@
+{
+    "recommendation_id": 2,
+    "pid": "2-7-11",
+    "model_used": "gemini-2.5-flash",
+    "generated_at": "2026-07-15T04:38:10.733574+00:00",
+    "arm": "Low carbohydrate diet",
+    "age": 48,
+    "gender": "Male",
+    "clinical_snapshot": {
+        "latest_hba1c": 10.3,
+        "baseline_hba1c": 7.6,
+        "latest_bmi": 21.59,
+        "hypertension": "No",
+        "diabetes_duration": 4
+    },
+    "diet_advice": {
+        "current_diet_assessment": "Daily consumption of soft drinks and junk foods directly undermines the low carbohydrate diet and contributes to severely elevated HbA1c and dyslipidemia.",
+        "priority_changes": [
+            "Completely eliminate soft drinks and junk food from your diet immediately.",
+            "Increase daily intake of lean protein sources and non-starchy vegetables.",
+            "Replace high-carb grains like white rice and potato with lower-carb alternatives."
+        ],
+        "breakfast": "2-egg omelette with 1 cup mixed vegetables (onion, tomato, capsicum) and a small handful of groundnuts \u2014 Provides protein, healthy fats, and fiber while keeping carbohydrates low.",
+        "lunch": "1 cup chicken/fish curry (without potato) with 1 small bowl of palak paneer or mixed vegetable sabzi \u2014 Offers essential protein and non-starchy vegetables, supporting blood sugar control.",
+        "dinner": "2 small moong dal cheelas (made with grated cabbage/carrot) with 1 small bowl curd \u2014 Provides protein and fiber from lentils and vegetables, lower in carbohydrates and easily digestible.",
+        "foods_to_avoid": [
+            "Soft drinks and packaged juices \u2014 they are primary contributors to high blood sugar and poor lipid profile.",
+            "Sweets, pastries, biscuits, and deep-fried snacks \u2014 these foods directly raise blood sugar and contain unhealthy fats.",
+            "White rice, white bread, idli, dosa, and potato \u2014 these are high glycemic index foods that cause rapid blood sugar spikes."
+        ],
+        "clinical_note": "Patient has stopped all oral antidiabetic medications and statin, leading to severe HbA1c worsening and dyslipidemia; urgent medical review is needed."
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "pid": "4-16-11",
+    "arm": "Usual diet",
+    "latest_visit": "12th month",
+    "date": "05-02-2026",
+    "hb_a1c": 9.2,
+    "weight_kg": 49.8,
+    "bmi": 20.20365937766238,
+    "sys_bp": 101.0,
+    "dia_bp": 65.0,
+    "n_oral_antidiabetics": 0,
+    "diet": {
+        "soft_drinks_days_week": 7.0,
+        "junk_foods_days_week": 4.0,
+        "vegetables_days_week": 5.0,
+        "fruits_days_week": 3.0
+    }
+}

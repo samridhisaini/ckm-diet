@@ -1,0 +1,33 @@
+{
+    "recommendation_id": 5,
+    "pid": "4-16-11",
+    "model_used": "gemini-2.5-flash",
+    "generated_at": "2026-07-15T04:38:51.138410+00:00",
+    "arm": "Usual diet",
+    "age": 56,
+    "gender": "Female",
+    "clinical_snapshot": {
+        "latest_hba1c": 9.2,
+        "baseline_hba1c": 7.7,
+        "latest_bmi": 20.2,
+        "hypertension": "No",
+        "diabetes_duration": 5
+    },
+    "diet_advice": {
+        "current_diet_assessment": "Daily consumption of soft drinks and frequent junk food are major contributors to uncontrolled blood sugar.",
+        "priority_changes": [
+            "Eliminate all sugary beverages including soft drinks.",
+            "Increase daily intake of vegetables and fruits.",
+            "Practice strict portion control for all meals."
+        ],
+        "breakfast": "2 Whole Wheat Idlis with Sambar and 1/2 cup Chana Dal Chutney. \u2014 Provides complex carbs, protein, and fiber for stable blood sugar.",
+        "lunch": "2 Multigrain Rotis, 1 cup Dal, 1.5 cups Mixed Vegetable Curry, Small Cucumber Salad. \u2014 Offers balanced macronutrients, high fiber, and essential micronutrients.",
+        "dinner": "1 cup Vegetable Daliya with Mixed Vegetables and 1/2 cup Paneer. \u2014 Light, easily digestible meal providing complex carbs, fiber, and protein.",
+        "foods_to_avoid": [
+            "Soft drinks and packaged fruit juices \u2014 directly cause rapid blood sugar spikes.",
+            "Fried snacks and processed foods \u2014 high in unhealthy fats, sodium, and refined carbohydrates.",
+            "Refined sugar and sugary desserts \u2014 contribute to poor glycemic control."
+        ],
+        "clinical_note": "Urgent medical review for significant HbA1c worsening to 9.2% and apparent discontinuation of antidiabetic medications."
+    }
+}

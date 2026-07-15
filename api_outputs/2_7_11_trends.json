@@ -1,0 +1,36 @@
+{
+    "pid": "2-7-11",
+    "arm": "Low carbohydrate diet",
+    "trends": [
+        {
+            "visit": "Baseline",
+            "date": "10-12-2024",
+            "hb_a1c": 7.6,
+            "weight_kg": 64.5,
+            "bmi": 23.13,
+            "sys_bp": 121.0,
+            "dia_bp": 93.0,
+            "waist_cm": 82.0
+        },
+        {
+            "visit": "6th month",
+            "date": "17-06-2025",
+            "hb_a1c": 10.4,
+            "weight_kg": 63.1,
+            "bmi": 22.63,
+            "sys_bp": 133.0,
+            "dia_bp": 91.0,
+            "waist_cm": 92.0
+        },
+        {
+            "visit": "12th month",
+            "date": "08-01-2026",
+            "hb_a1c": 10.3,
+            "weight_kg": 60.2,
+            "bmi": 21.59,
+            "sys_bp": 133.0,
+            "dia_bp": 87.0,
+            "waist_cm": 89.0
+        }
+    ]
+}

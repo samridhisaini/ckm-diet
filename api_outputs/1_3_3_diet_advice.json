@@ -1,0 +1,33 @@
+{
+    "recommendation_id": 1,
+    "pid": "1-3-3",
+    "model_used": "gemini-2.5-flash",
+    "generated_at": "2026-07-15T04:37:58.088402+00:00",
+    "arm": "Low carbohydrate diet",
+    "age": 54,
+    "gender": "Male",
+    "clinical_snapshot": {
+        "latest_hba1c": 8.5,
+        "baseline_hba1c": 9.4,
+        "latest_bmi": 28.9,
+        "hypertension": "Yes",
+        "diabetes_duration": 4
+    },
+    "diet_advice": {
+        "current_diet_assessment": "Consistent high intake of sugary drinks and junk food significantly undermines efforts for a low-carbohydrate diet and weight management.",
+        "priority_changes": [
+            "Strictly eliminate all soft drinks and packaged snacks from your diet.",
+            "Prioritize protein and non-starchy vegetables as the main components of every meal.",
+            "Increase intake of healthy fats through nuts/seeds and lean protein sources to improve HDL."
+        ],
+        "breakfast": "Two boiled eggs with a handful of peanuts and 1 small bowl of chopped cucumber/tomato. \u2014 Provides high protein, healthy fats, and fiber with minimal carbohydrates.",
+        "lunch": "Fish or chicken curry (with plenty of mixed vegetables like drumsticks, gourds) and 1 small bowl of plain curd. \u2014 Rich in lean protein, essential fats, and fiber from vegetables, fitting a low-carb approach.",
+        "dinner": "A large bowl of mixed vegetable soup with shredded paneer (cottage cheese). \u2014 Light, satisfying, high in fiber and protein, and very low in carbohydrates.",
+        "foods_to_avoid": [
+            "Soft drinks \u2014 directly contribute to high blood sugar and impede weight loss.",
+            "Chips, biscuits, samosas \u2014 high in refined carbohydrates, unhealthy fats, and empty calories.",
+            "White rice, idli, dosa, paratha \u2014 rapidly raise blood glucose due to their high carbohydrate content."
+        ],
+        "clinical_note": "Critically low HDL cholesterol (35.5 mg/dL) and persistent poor sleep duration (4 hours) require urgent medical attention and targeted lifestyle interventions."
+    }
+}

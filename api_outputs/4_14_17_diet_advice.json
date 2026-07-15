@@ -1,0 +1,34 @@
+{
+    "recommendation_id": 4,
+    "pid": "4-14-17",
+    "model_used": "gemini-2.5-flash",
+    "generated_at": "2026-07-15T04:38:37.206608+00:00",
+    "arm": "Usual diet",
+    "age": 65,
+    "gender": "Female",
+    "clinical_snapshot": {
+        "latest_hba1c": 8.3,
+        "baseline_hba1c": 8.1,
+        "latest_bmi": 23.77,
+        "hypertension": "Yes",
+        "diabetes_duration": 10
+    },
+    "diet_advice": {
+        "current_diet_assessment": "Daily soft drink consumption is the biggest dietary problem, directly contributing to high blood sugar.",
+        "priority_changes": [
+            "Strictly eliminate all sugary soft drinks and aerated beverages.",
+            "Increase consistent daily intake of fruits and vegetables for fiber and micronutrients.",
+            "Focus on portion control of carbohydrate-rich foods at all meals.",
+            "Ensure regular intake of protein through dal, eggs, or paneer."
+        ],
+        "breakfast": "2 small Wheat Dosa with 1 cup Sambar and 1 boiled egg \u2014 Provides balanced carbs, protein, and vegetables; affordable and easy to prepare.",
+        "lunch": "1 cup Hand-pounded Rice with 1 cup Mixed Vegetable Sambar and 1 cup curried seasonal vegetables \u2014 Offers complex carbs, protein, fiber, and supports steady blood sugar.",
+        "dinner": "2 small Whole Wheat Chapatis with 1 cup Dal and 1 cup green leafy vegetable curry \u2014 Light, high-fiber, protein-rich meal that is easy to digest.",
+        "foods_to_avoid": [
+            "Soft drinks \u2014 high in sugar, directly elevates blood glucose and HbA1c.",
+            "Deep-fried snacks (e.g., samosa, pakora) \u2014 high in unhealthy fats, contributing to CKM risks.",
+            "Packaged biscuits/sweets \u2014 often contain hidden sugars and refined flours, detrimental to glycemic control."
+        ],
+        "clinical_note": "Patient's HbA1c has significantly worsened to 8.3%, coinciding with no reported oral antidiabetic medications; urgent review of medication adherence and regimen is needed. Also, flag the extremely low sleep duration (4 hours)."
+    }
+}

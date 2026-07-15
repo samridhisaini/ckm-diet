@@ -1,0 +1,34 @@
+{
+    "recommendation_id": 3,
+    "pid": "3-10-13",
+    "model_used": "gemini-2.5-flash",
+    "generated_at": "2026-07-15T04:38:24.245746+00:00",
+    "arm": "Usual diet",
+    "age": 51,
+    "gender": "Female",
+    "clinical_snapshot": {
+        "latest_hba1c": 6.3,
+        "baseline_hba1c": 11.2,
+        "latest_bmi": 35.66,
+        "hypertension": "Yes",
+        "diabetes_duration": 1
+    },
+    "diet_advice": {
+        "current_diet_assessment": "Daily consumption of soft drinks and junk foods is the primary concern, contributing to high BMI and low HDL.",
+        "priority_changes": [
+            "Strictly eliminate all soft drinks and junk foods.",
+            "Increase daily intake of fruits and vegetables to 2-3 servings each.",
+            "Focus on portion control for all meals to achieve gradual weight loss.",
+            "Include a handful of nuts/seeds daily to improve HDL cholesterol."
+        ],
+        "breakfast": "Oats Upma with mixed vegetables (1 small bowl) \u2014 Provides complex carbohydrates and fiber, aiding satiety and blood sugar control.",
+        "lunch": "1 small bowl Brown Rice, 1 small bowl Dal, 1 medium Katori of mixed vegetable subzi, 1 small bowl Curd \u2014 Offers balanced macros with good fiber and protein for satiety and blood sugar.",
+        "dinner": "2 Whole Wheat Roti with 1 medium Katori of lentil curry and a side salad \u2014 Lighter, fiber-rich meal that supports digestion and portion control before bed.",
+        "foods_to_avoid": [
+            "Soft drinks \u2014 High in sugar, contributes to obesity and poor blood sugar control.",
+            "Processed junk foods (biscuits, chips, fried snacks) \u2014 High in unhealthy fats, sodium, and refined carbs, detrimental to heart health and weight.",
+            "Deep-fried foods (e.g., Puri, Pakora) \u2014 Adds unnecessary calories and unhealthy fats, impacting weight and heart health."
+        ],
+        "clinical_note": "Review necessity of statin therapy for patient with history of heart attack and low HDL, especially being off OADs."
+    }
+}

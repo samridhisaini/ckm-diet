@@ -1,0 +1,18 @@
+{
+    "pid": "1-3-3",
+    "arm": "Low carbohydrate diet",
+    "latest_visit": "12th month",
+    "date": "09-01-2026",
+    "hb_a1c": 8.5,
+    "weight_kg": 86.5,
+    "bmi": 28.90173410404624,
+    "sys_bp": 134.0,
+    "dia_bp": 83.0,
+    "n_oral_antidiabetics": 0,
+    "diet": {
+        "soft_drinks_days_week": 7.0,
+        "junk_foods_days_week": 7.0,
+        "vegetables_days_week": 4.0,
+        "fruits_days_week": 4.0
+    }
+}

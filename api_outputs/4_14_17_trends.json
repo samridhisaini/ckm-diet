@@ -1,0 +1,56 @@
+{
+    "pid": "4-14-17",
+    "arm": "Usual diet",
+    "trends": [
+        {
+            "visit": "Baseline",
+            "date": "21-01-2025",
+            "hb_a1c": 8.1,
+            "weight_kg": 60.0,
+            "bmi": 23.85,
+            "sys_bp": 113.0,
+            "dia_bp": 60.0,
+            "waist_cm": 91.0
+        },
+        {
+            "visit": "3rd month",
+            "date": "04-04-2025",
+            "hb_a1c": 7.9,
+            "weight_kg": 61.0,
+            "bmi": 24.25,
+            "sys_bp": 150.0,
+            "dia_bp": 80.0,
+            "waist_cm": 86.0
+        },
+        {
+            "visit": "6th month",
+            "date": "14-07-2025",
+            "hb_a1c": 7.9,
+            "weight_kg": 60.5,
+            "bmi": 24.05,
+            "sys_bp": 126.0,
+            "dia_bp": 56.0,
+            "waist_cm": 92.0
+        },
+        {
+            "visit": "9th month",
+            "date": "30-10-2025",
+            "hb_a1c": 7.4,
+            "weight_kg": 60.9,
+            "bmi": 24.21,
+            "sys_bp": 126.0,
+            "dia_bp": 57.0,
+            "waist_cm": 91.0
+        },
+        {
+            "visit": "12th month",
+            "date": "28-01-2026",
+            "hb_a1c": 8.3,
+            "weight_kg": 59.8,
+            "bmi": 23.77,
+            "sys_bp": 135.0,
+            "dia_bp": 64.0,
+            "waist_cm": 93.0
+        }
+    ]
+}
