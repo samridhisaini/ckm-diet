@@ -179,3 +179,4 @@ SQLite file: `ckm.db`
 3. No code changes needed
 
 For production with 300+ patients, consider switching `DATABASE_URL` in `database.py` from SQLite to PostgreSQL or MySQL.
+
